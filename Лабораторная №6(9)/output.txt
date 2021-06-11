@@ -1,0 +1,58 @@
+K: 0
+  C0: (250;306) with 0 points
+K: 0
+  C0: (161;238) with 0 points
+  C1: (418;343) with 0 points
+  C2: (175;458) with 0 points
+K: 0
+  C0: (204.66666666666666;142.0) with 3 points
+  C1: (494.0;334.3333333333333) with 3 points
+  C2: (138.33333333333334;500.6666666666667) with 3 points
+  C3: (273;341) with 0 points
+K: 0
+  C0: (204.66666666666666;142.0) with 3 points
+  C1: (494.0;334.3333333333333) with 3 points
+  C2: (138.33333333333334;500.6666666666667) with 3 points
+  C3: (273;341) with 0 points
+K: 0
+  C0: (210.75;163.25) with 4 points
+  C1: (494.0;334.3333333333333) with 3 points
+  C2: (138.33333333333334;500.6666666666667) with 3 points
+  C3: (273;341) with 0 points
+K: 0
+  C0: (245;312) with 0 points
+  C1: (300;323) with 0 points
+  C2: (346;308) with 0 points
+K: 0
+  C0: (245;312) with 0 points
+  C1: (300;323) with 0 points
+  C2: (346;308) with 0 points
+K: 0
+  C0: (167.25;373.75) with 4 points
+  C1: (330.0;428.0) with 2 points
+  C2: (376.2;328.2) with 5 points
+K: 0
+  C0: (167.25;373.75) with 4 points
+  C1: (353.3333333333333;425.0) with 3 points
+  C2: (370.25;305.5) with 4 points
+K: 0
+  C0: (144.33333333333334;355.6666666666667) with 3 points
+  C1: (341.4;420.6) with 5 points
+  C2: (356.6666666666667;274.0) with 3 points
+K: 0
+  C0: (167.25;373.75) with 4 points
+  C1: (367.75;418.75) with 4 points
+  C2: (356.6666666666667;274.0) with 3 points
+  C3: (283;338) with 0 points
+K: 0
+  C0: (160.66666666666666;410.0) with 3 points
+  C1: (367.75;418.75) with 4 points
+  C2: (356.6666666666667;274.0) with 3 points
+  C3: (187.0;265.0) with 1 points
+  C4: (165;181) with 0 points
+K: 0
+  C0: (160.66666666666666;410.0) with 3 points
+  C1: (367.75;418.75) with 4 points
+  C2: (356.6666666666667;274.0) with 3 points
+  C3: (187.0;265.0) with 1 points
+  C4: (165;181) with 0 points
